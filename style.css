@@ -1,0 +1,40 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    display: inline;
+}
+
+li{
+    float: right;
+}
+
+li{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.active{
+    background-color: teal;
+}
+
+.moveimage
+{
+    position: relative;
+    top: 100px;
+    left : 500px ;
+}
+
+.movetextbox
+{
+    position: relative;
+    top: 110px;
+    left : 500px ;
+}
+
